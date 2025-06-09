@@ -1,0 +1,6 @@
+framework module JHTestLogSDK {
+  umbrella header "JHTestLogSDK.h"
+  export *
+
+  module * { export * }
+}
